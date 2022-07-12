@@ -1,6 +1,6 @@
 Simple GPA Calculator 
 # gpa-calculator
-Uses basic React Hooks.
+Using basic React Hooks.
 
-## Demo:
+## Active Demo:
 https://gpa-calculator-app.netlify.app/
